@@ -1,6 +1,6 @@
 import type { Preview } from '@storybook/react';
 
-import '../src/styles/cmdr-global-styles.scss';
+import '../src/styles/global-styles.scss';
 
 const preview: Preview = {
 	parameters: {
