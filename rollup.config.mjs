@@ -1,5 +1,3 @@
-import terser from '@rollup/plugin-terser';
-// import scss from 'rollup-plugin-scss';
 import sass from 'rollup-plugin-sass';
 
 export default {
